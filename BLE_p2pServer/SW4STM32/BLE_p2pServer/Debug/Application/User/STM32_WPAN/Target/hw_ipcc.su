@@ -1,0 +1,16 @@
+hw_ipcc.c:151:6:HW_IPCC_Enable	0	static,ignoring_inline_asm
+hw_ipcc.c:175:6:HW_IPCC_Init	16	static
+hw_ipcc.c:191:6:HW_IPCC_BLE_Init	0	static
+hw_ipcc.c:198:6:HW_IPCC_BLE_SendCmd	0	static
+hw_ipcc.c:214:6:HW_IPCC_BLE_SendAclData	0	static
+hw_ipcc.c:231:13:HW_IPCC_BLE_AclDataAckNot	0	static
+hw_ipcc.c:232:13:HW_IPCC_BLE_RxEvtNot	0	static
+hw_ipcc.c:237:6:HW_IPCC_SYS_Init	0	static
+hw_ipcc.c:244:6:HW_IPCC_SYS_SendCmd	0	static
+hw_ipcc.c:270:13:HW_IPCC_SYS_CmdEvtNot	0	static
+hw_ipcc.c:109:6:HW_IPCC_Tx_Handler	8	static
+hw_ipcc.c:271:13:HW_IPCC_SYS_EvtNot	0	static
+hw_ipcc.c:470:6:HW_IPCC_MM_SendFreeBuf	8	static
+hw_ipcc.c:501:6:HW_IPCC_TRACES_Init	0	static
+hw_ipcc.c:517:13:HW_IPCC_TRACES_EvtNot	0	static
+hw_ipcc.c:65:6:HW_IPCC_Rx_Handler	16	static

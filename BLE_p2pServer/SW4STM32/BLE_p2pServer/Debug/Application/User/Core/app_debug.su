@@ -1,0 +1,6 @@
+stm32wbxx_ll_bus.h:508:22:LL_AHB2_GRP1_EnableClock	8	static
+stm32wbxx_ll_bus.h:1551:22:LL_C2_AHB2_GRP1_EnableClock	8	static
+app_debug.c:156:6:APPD_Init	48	static
+app_debug.c:202:6:APPD_EnableCPU2	48	static
+app_debug.c:367:6:DbgOutputInit	0	static
+app_debug.c:389:6:DbgOutputTraces	0	static

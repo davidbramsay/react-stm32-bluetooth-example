@@ -1,0 +1,9 @@
+shci_tl.c:262:13:TlUserEvtReceived	8	static
+shci_tl.c:232:13:Cmd_SetStatus.constprop	0	static
+shci_tl.c:94:6:shci_init	32	static
+shci_tl.c:106:6:shci_user_evt_proc	24	static
+shci_tl.c:165:6:shci_resume_flow	0	static
+shci_tl.c:332:13:shci_cmd_resp_wait	0	static
+shci_tl.c:178:6:shci_send	32	static
+shci_tl.c:342:13:shci_cmd_resp_release	0	static
+shci_tl.c:254:13:TlCmdEvtReceived	8	static

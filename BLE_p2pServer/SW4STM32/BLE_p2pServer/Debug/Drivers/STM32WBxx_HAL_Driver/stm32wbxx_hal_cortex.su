@@ -1,0 +1,17 @@
+stm32wbxx_hal_cortex.c:138:6:HAL_NVIC_SetPriorityGrouping	0	static
+stm32wbxx_hal_cortex.c:160:6:HAL_NVIC_SetPriority	16	static
+stm32wbxx_hal_cortex.c:180:6:HAL_NVIC_EnableIRQ	0	static
+stm32wbxx_hal_cortex.c:196:6:HAL_NVIC_DisableIRQ	0	static,ignoring_inline_asm
+stm32wbxx_hal_cortex.c:209:6:HAL_NVIC_SystemReset	0	static,ignoring_inline_asm
+stm32wbxx_hal_cortex.c:222:10:HAL_SYSTICK_Config	0	static
+stm32wbxx_hal_cortex.c:251:10:HAL_NVIC_GetPriorityGrouping	0	static
+stm32wbxx_hal_cortex.c:278:6:HAL_NVIC_GetPriority	16	static
+stm32wbxx_hal_cortex.c:293:6:HAL_NVIC_SetPendingIRQ	0	static
+stm32wbxx_hal_cortex.c:311:10:HAL_NVIC_GetPendingIRQ	0	static
+stm32wbxx_hal_cortex.c:327:6:HAL_NVIC_ClearPendingIRQ	0	static
+stm32wbxx_hal_cortex.c:344:6:HAL_SYSTICK_CLKSourceConfig	0	static
+stm32wbxx_hal_cortex.c:371:13:HAL_SYSTICK_Callback	0	static
+stm32wbxx_hal_cortex.c:362:6:HAL_SYSTICK_IRQHandler	8	static
+stm32wbxx_hal_cortex.c:383:6:HAL_MPU_Disable	0	static,ignoring_inline_asm
+stm32wbxx_hal_cortex.c:406:6:HAL_MPU_Enable	0	static,ignoring_inline_asm
+stm32wbxx_hal_cortex.c:425:6:HAL_MPU_ConfigRegion	8	static

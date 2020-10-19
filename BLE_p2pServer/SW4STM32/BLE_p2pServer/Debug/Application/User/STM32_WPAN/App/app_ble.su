@@ -1,0 +1,17 @@
+app_ble.c:1107:13:Switch_OFF_GPIO	0	static
+app_ble.c:1095:13:Adv_Cancel_Req	0	static
+app_ble.c:1184:13:BLE_UserEvtRx	8	static
+app_ble.c:1202:13:BLE_StatusNot	0	static
+app_ble.c:1148:13:Connection_Interval_Update_Req	16	static
+app_ble.c:1063:13:Adv_Cancel	8	static
+app_ble.c:928:13:Adv_Request.constprop	48	static
+app_ble.c:381:6:APP_BLE_Init	104	static
+app_ble.c:501:28:SVCCTL_App_Notification	24	static
+app_ble.c:745:22:APP_BLE_Get_Server_Connection_Status	0	static
+app_ble.c:751:6:APP_BLE_Key_Button1_Action	0	static
+app_ble.c:756:6:APP_BLE_Key_Button2_Action	0	static
+app_ble.c:765:6:APP_BLE_Key_Button3_Action	0	static
+app_ble.c:1166:6:hci_notify_asynch_evt	0	static
+app_ble.c:1172:6:hci_cmd_resp_release	0	static
+app_ble.c:1178:6:hci_cmd_resp_wait	0	static
+app_ble.c:1233:6:SVCCTL_ResumeUserEventFlow	0	static

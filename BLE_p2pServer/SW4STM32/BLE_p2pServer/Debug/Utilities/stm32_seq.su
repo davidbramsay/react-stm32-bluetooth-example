@@ -1,0 +1,16 @@
+stm32_seq.c:362:17:bit_position	0	static
+stm32_seq.c:82:6:UTIL_SEQ_Init	16	static
+stm32_seq.c:95:6:UTIL_SEQ_DeInit	0	static
+stm32_seq.c:198:6:UTIL_SEQ_RegTask	8	static,ignoring_inline_asm
+stm32_seq.c:212:6:UTIL_SEQ_SetTask	12	static,ignoring_inline_asm
+stm32_seq.c:227:6:UTIL_SEQ_PauseTask	0	static,ignoring_inline_asm
+stm32_seq.c:241:6:UTIL_SEQ_ResumeTask	0	static,ignoring_inline_asm
+stm32_seq.c:255:6:UTIL_SEQ_SetEvt	0	static,ignoring_inline_asm
+stm32_seq.c:269:6:UTIL_SEQ_ClrEvt	0	static,ignoring_inline_asm
+stm32_seq.c:319:15:UTIL_SEQ_IsEvtPend	0	static
+stm32_seq.c:336:13:UTIL_SEQ_Idle	0	static
+stm32_seq.c:344:13:UTIL_SEQ_PreIdle	0	static
+stm32_seq.c:352:13:UTIL_SEQ_PostIdle	0	static
+stm32_seq.c:104:6:UTIL_SEQ_Run	24	static,ignoring_inline_asm
+stm32_seq.c:324:13:UTIL_SEQ_EvtIdle	0	static
+stm32_seq.c:283:6:UTIL_SEQ_WaitEvt	24	static

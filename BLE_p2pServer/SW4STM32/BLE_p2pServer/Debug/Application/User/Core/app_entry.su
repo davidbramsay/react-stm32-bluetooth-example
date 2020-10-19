@@ -1,0 +1,9 @@
+app_entry.c:181:13:APPE_SysStatusNot	0	static
+app_entry.c:196:13:APPE_SysUserEvtRx	8	static
+app_entry.c:86:6:APPE_Init	40	static
+app_entry.c:246:6:UTIL_SEQ_Idle	0	static
+app_entry.c:261:6:UTIL_SEQ_EvtIdle	0	static
+app_entry.c:266:6:shci_notify_asynch_evt	0	static
+app_entry.c:272:6:shci_cmd_resp_release	0	static
+app_entry.c:278:6:shci_cmd_resp_wait	0	static
+app_entry.c:285:6:HAL_GPIO_EXTI_Callback	0	static

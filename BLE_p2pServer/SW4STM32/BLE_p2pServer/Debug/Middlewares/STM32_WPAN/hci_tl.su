@@ -1,0 +1,7 @@
+hci_tl.c:97:6:hci_init	32	static
+hci_tl.c:109:6:hci_user_evt_proc	24	static
+hci_tl.c:169:6:hci_resume_flow	0	static
+hci_tl.c:398:13:hci_cmd_resp_wait	0	static
+hci_tl.c:182:5:hci_send_req	40	static
+hci_tl.c:408:13:hci_cmd_resp_release	0	static
+hci_tl.c:308:13:TlEvtReceived	8	static

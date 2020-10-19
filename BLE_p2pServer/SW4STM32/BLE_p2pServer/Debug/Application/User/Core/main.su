@@ -1,0 +1,10 @@
+stm32wbxx_ll_bus.h:340:22:LL_AHB1_GRP1_EnableClock	8	static
+stm32wbxx_ll_bus.h:508:22:LL_AHB2_GRP1_EnableClock	8	static
+main.c:139:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:214:6:SystemClock_Config	208	static
+main.c:159:5:main	32	static
+main.c:281:6:MX_LPUART1_UART_Init	16	static
+main.c:329:6:MX_USART1_UART_Init	16	static
+main.c:472:6:PeriphClock_Config	0	static
+main.c:623:6:HAL_Delay	16	static,ignoring_inline_asm
+main.c:657:6:Error_Handler	0	static

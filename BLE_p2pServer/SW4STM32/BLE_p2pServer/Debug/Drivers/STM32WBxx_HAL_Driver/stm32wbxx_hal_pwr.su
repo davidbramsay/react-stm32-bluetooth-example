@@ -1,0 +1,16 @@
+stm32wbxx_hal_pwr.c:101:6:HAL_PWR_DeInit	0	static
+stm32wbxx_hal_pwr.c:163:6:HAL_PWR_EnableBkUpAccess	0	static
+stm32wbxx_hal_pwr.c:173:6:HAL_PWR_DisableBkUpAccess	0	static
+stm32wbxx_hal_pwr.c:363:19:HAL_PWR_ConfigPVD	0	static
+stm32wbxx_hal_pwr.c:407:6:HAL_PWR_EnablePVD	0	static
+stm32wbxx_hal_pwr.c:417:6:HAL_PWR_DisablePVD	0	static
+stm32wbxx_hal_pwr.c:441:6:HAL_PWR_EnableWakeUpPin	0	static
+stm32wbxx_hal_pwr.c:464:6:HAL_PWR_DisableWakeUpPin	0	static
+stm32wbxx_hal_pwr.c:495:6:HAL_PWR_EnterSLEEPMode	8	static,ignoring_inline_asm
+stm32wbxx_hal_pwr.c:577:6:HAL_PWR_EnterSTOPMode	0	static
+stm32wbxx_hal_pwr.c:613:6:HAL_PWR_EnterSTANDBYMode	0	static,ignoring_inline_asm
+stm32wbxx_hal_pwr.c:644:6:HAL_PWR_EnableSleepOnExit	0	static
+stm32wbxx_hal_pwr.c:656:6:HAL_PWR_DisableSleepOnExit	0	static
+stm32wbxx_hal_pwr.c:669:6:HAL_PWR_EnableSEVOnPend	0	static
+stm32wbxx_hal_pwr.c:682:6:HAL_PWR_DisableSEVOnPend	0	static
+stm32wbxx_hal_pwr.c:693:13:HAL_PWR_PVDCallback	0	static
