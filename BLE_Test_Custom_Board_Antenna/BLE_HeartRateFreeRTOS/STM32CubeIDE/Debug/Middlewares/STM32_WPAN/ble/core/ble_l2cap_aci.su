@@ -1,0 +1,2 @@
+ble_l2cap_aci.c:22:12:aci_l2cap_connection_parameter_update_req	320	static
+ble_l2cap_aci.c:56:12:aci_l2cap_connection_parameter_update_resp	320	static

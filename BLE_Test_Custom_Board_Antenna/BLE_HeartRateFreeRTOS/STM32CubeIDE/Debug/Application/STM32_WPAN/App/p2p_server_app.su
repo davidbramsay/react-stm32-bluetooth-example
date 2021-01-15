@@ -1,0 +1,5 @@
+p2p_server_app.c:92:6:P2PS_STM_App_Notification	48	static
+p2p_server_app.c:217:6:P2PS_APP_Notification	16	static
+p2p_server_app.c:251:6:P2PS_APP_Init	8	static
+p2p_server_app.c:266:6:P2PS_APP_LED_BUTTON_context_Init	8	static
+p2p_server_app.c:289:6:P2PS_Send_Notification	48	static

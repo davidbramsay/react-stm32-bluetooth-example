@@ -1,0 +1,1 @@
+app_freertos.c:57:13:vPortSuppressTicksAndSleep	16	static

@@ -1,0 +1,5 @@
+hrs.c:90:30:HearRate_Event_Handler	64	static
+hrs.c:207:19:Update_Char_BodySensorLocation	32	static
+hrs.c:226:19:Update_Char_Measurement	40	static
+hrs.c:396:6:HRS_Init	40	static
+hrs.c:568:12:HRS_UpdateChar	24	static

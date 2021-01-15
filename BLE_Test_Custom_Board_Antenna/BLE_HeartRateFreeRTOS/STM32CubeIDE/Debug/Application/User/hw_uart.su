@@ -1,0 +1,8 @@
+hw_uart.c:68:6:HW_UART_Receive_IT	24	static
+hw_uart.c:91:6:HW_UART_Transmit_IT	24	static
+hw_uart.c:114:13:HW_UART_Transmit	32	static
+hw_uart.c:162:13:HW_UART_Transmit_DMA	32	static
+hw_uart.c:214:6:HW_UART_Interrupt_Handler	16	static
+hw_uart.c:237:6:HW_UART_DMA_Interrupt_Handler	16	static
+hw_uart.c:260:6:HAL_UART_RxCpltCallback	16	static
+hw_uart.c:289:6:HAL_UART_TxCpltCallback	16	static

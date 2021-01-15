@@ -1,0 +1,5 @@
+p2p_stm.c:106:30:PeerToPeer_Event_Handler	48	static
+p2p_stm.c:190:6:P2PS_STM_Init	48	static
+p2p_stm.c:271:12:P2PS_STM_App_Update_Char	32	static
+p2p_stm.c:294:12:P2PS_STM_App_Update_Int16	56	dynamic
+p2p_stm.c:323:12:P2PS_STM_App_Update_Int8	32	static

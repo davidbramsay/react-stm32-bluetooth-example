@@ -1,0 +1,10 @@
+stm32wbxx_ll_bus.h:540:22:LL_AHB2_GRP1_EnableClock	24	static
+stm32wbxx_nucleo.c:134:10:BSP_GetVersion	4	static
+stm32wbxx_nucleo.c:152:6:BSP_LED_Init	40	static
+stm32wbxx_nucleo.c:180:6:BSP_LED_DeInit	40	static
+stm32wbxx_nucleo.c:200:6:BSP_LED_On	16	static
+stm32wbxx_nucleo.c:214:6:BSP_LED_Off	16	static
+stm32wbxx_nucleo.c:228:6:BSP_LED_Toggle	16	static
+stm32wbxx_nucleo.c:255:6:BSP_PB_Init	40	static
+stm32wbxx_nucleo.c:299:6:BSP_PB_DeInit	40	static
+stm32wbxx_nucleo.c:317:10:BSP_PB_GetState	16	static
